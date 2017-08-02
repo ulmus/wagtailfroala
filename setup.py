@@ -14,7 +14,7 @@ setup(
     author='Jayden Smith',
     author_email='jayden@intelliscale.com.au',
     include_package_data=True,
-    install_requires=['Django>=1.8,<1.10', 'wagtail>=1.5,<1.6'],
+    install_requires=['Django>=1.8', 'wagtail>=1.5'],
     license='MIT License',
     description='Extends Wagtail to use the Froala WYSIWYG editor in RichTextFields/RichTextBlocks.',
     url='https://github.com/jaydensmith/wagtailfroala',
